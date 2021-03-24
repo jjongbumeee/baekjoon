@@ -31,27 +31,27 @@
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |  상태             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |:---------------:|
 | 00   | Data Structure               | 자료구조            | [바로가기][Data Structure]  | 15 | 22 | ![status][Doing]  |
-| 01   | Data Structure 2             | 자료구조 2          | [바로가기][Data Structure2] | 08 | 18 | ![status][Ready]  |
-| 02   | Math                         | 수학                | [바로가기][Math]  | 12 | 12 |  ![status][Ready]  |
-| 03   | Greedy                       | 탐욕법              | [바로가기][Greedy]  | 25 | 59 |  ![status][Ready]  |
-| 04   | Dynamic Programming 1        | 동적계획법 1        | [바로가기][DP1]  | 24 | 76 |  ![status][Ready]  |
-| 05   | Dynamic Programming 2        | 동적계획법 2        | [바로가기][DP2]  | 25 | 75 |  ![status][Ready]  |
-| 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | 10 | 32 |  ![status][Ready]  |
-| 07   | Implementation               | 구현                | [바로가기][Implementation]  | 24 | 43 |  ![status][Ready]  | 
-| 08   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | 28 | 90 |  ![status][Ready]  |
-| 09   | Brute Force                  | 완전탐색            | [바로가기][Brute Force]  | 28 | 87 |  ![status][Ready]  |
-| 10   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | 25 | 42 |  ![status][Ready]  |
-| 11   | Binary Search                | 이분탐색            | [바로가기][Binary Search] | 19 | 65 |  ![status][Ready]  |
-| 12   | Backtracking                 | 백트래킹            | [바로가기][Backtracking]  | 27 | 74 |  ![status][Ready]  |
-| 13   | Divide and conquer           | 분할정복            | [바로가기][Divide and conquer]  | 07 | 18 |  ![status][Ready]  |
-| 14   | Prefix Sum                   | 누적 합             | [바로가기][Prefix Sum]  | 09 | 30 |  ![status][Ready]  |
-| 15   | String                       | 문자열              | [바로가기][String]  | 19 | 64 |  ![status][Ready]  |
-| 16   | Shortest Path                | 최단거리            | [바로가기][Shortest Path]  | 18 | 51 |  ![status][Ready]  |
-| 17   | Topological Sorting          | 위상정렬            | [바로가기][Topological Sorting]  | 05 | 13 |  ![status][Ready]  |
+| 01   | Data Structure 2             | 자료구조 2          | [바로가기][Data Structure2] | 08 | 18 | ![status][TODO]  |
+| 02   | Math                         | 수학                | [바로가기][Math]  | 12 | 12 |  ![status][TODO]  |
+| 03   | Greedy                       | 탐욕법              | [바로가기][Greedy]  | 25 | 59 |  ![status][TODO]  |
+| 04   | Dynamic Programming 1        | 동적계획법 1        | [바로가기][DP1]  | 24 | 76 |  ![status][TODO]  |
+| 05   | Dynamic Programming 2        | 동적계획법 2        | [바로가기][DP2]  | 25 | 75 |  ![status][TODO]  |
+| 06   | Two Pointer                  | 투 포인터           | [바로가기][Two Pointer]  | 10 | 32 |  ![status][TODO]  |
+| 07   | Implementation               | 구현                | [바로가기][Implementation]  | 24 | 43 |  ![status][TODO]  | 
+| 08   | Graph Traversal              | 그래프 탐색         | [바로가기][Graph Traversal]  | 28 | 90 |  ![status][TODO]  |
+| 09   | Brute Force                  | 완전탐색            | [바로가기][Brute Force]  | 28 | 87 |  ![status][TODO]  |
+| 10   | Simulation                   | 시뮬레이션          | [바로가기][Simulation]  | 25 | 42 |  ![status][TODO]  |
+| 11   | Binary Search                | 이분탐색            | [바로가기][Binary Search] | 19 | 65 |  ![status][TODO]  |
+| 12   | Backtracking                 | 백트래킹            | [바로가기][Backtracking]  | 27 | 74 |  ![status][TODO]  |
+| 13   | Divide and conquer           | 분할정복            | [바로가기][Divide and conquer]  | 07 | 18 |  ![status][TODO]  |
+| 14   | Prefix Sum                   | 누적 합             | [바로가기][Prefix Sum]  | 09 | 30 |  ![status][TODO]  |
+| 15   | String                       | 문자열              | [바로가기][String]  | 19 | 64 |  ![status][TODO]  |
+| 16   | Shortest Path                | 최단거리            | [바로가기][Shortest Path]  | 18 | 51 |  ![status][TODO]  |
+| 17   | Topological Sorting          | 위상정렬            | [바로가기][Topological Sorting]  | 05 | 13 |  ![status][TODO]  |
 | 18   | Disjoint Set                 | 분리 집합           | [바로가기][Disjoint Set]  | 06 | 20 |  ![status][Doing]  |
-| 19   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | [바로가기][MST]  | 07 | 23 |  ![status][Ready]  |
-| 20   | Trie                         | 트라이              | [바로가기][Trie]  | 05 | 09 |  ![status][Ready]  |
-| 21   | Dynamic Programming On Trees | 트리디피            | [바로가기][TreeDP]  | 04 | 08 |  ![status][Ready]  |
+| 19   | Minimum Spanning Tree(MST)   | 최소 스패닝 트리    | [바로가기][MST]  | 07 | 23 |  ![status][TODO]  |
+| 20   | Trie                         | 트라이              | [바로가기][Trie]  | 05 | 09 |  ![status][TODO]  |
+| 21   | Dynamic Programming On Trees | 트리디피            | [바로가기][TreeDP]  | 04 | 08 |  ![status][TODO]  |
 
 [현재 진행정도](./status.md)
 
